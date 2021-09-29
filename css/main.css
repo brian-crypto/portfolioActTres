@@ -1,0 +1,82 @@
+a{
+    text-decoration: none;
+    color: #2E87E6;
+}
+a:hover{
+    text-decoration: underline;
+    color: #2E87E6;
+}
+
+.resume-section-content h1{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu{
+    background: #2E87E6;
+    font-family: 'Lato', sans-serif;
+}
+
+.menu ul li a:hover{
+    text-decoration: underline;
+}
+
+.texto-color{
+    color: #2E87E6;
+}
+
+/*-- INICIO -- */
+.social-icons .social-icon:hover{
+    background: #2E87E6;
+}
+
+
+.btn-koya{
+    background: #2E87E6;
+}
+
+.btn-koya a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn-koya a:hover{
+    background: none;
+    color: white;
+    text-decoration: underline;
+}
+
+
+/*--ABOUT--*/
+
+#about a{
+    text-decoration: none;
+}
+.logo-koya{
+    font-family: 'Ubuntu', sans-serif;
+    color: #ff914f;
+}
+.logo-koya:hover{
+    color: #ff914f;
+}
+
+.name-dev{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.img-custom{
+    border-radius: 50%;
+}
+
+.summa{
+    color: #78be21;
+}
+
+.summa:hover{
+    color: #78be21;
+    text-decoration: underline;
+}
+
+.item-tecno{
+    width: 15px;
+    height: 15px;
+}
